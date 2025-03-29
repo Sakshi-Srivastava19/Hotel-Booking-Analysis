@@ -2,7 +2,7 @@
 Hotel-Booking-Analysis
 🚀 Exploring Hotel Booking Trends with Python! 📊🏨
 
-I recently worked on an Exploratory Data Analysis (EDA) project using the Hotel Bookings dataset. The goal? To uncover patterns in hotel reservations, cancellations, and seasonality trends.
+I recently worked on an Exploratory Data Analysis (EDA) project using the Hotel Bookings dataset. The goal? To uncover patterns in hotel reservations, cancellations, and seasonality trends.**This task was provided by catalys company for the role as Data Analyst Intern**
 
 🔍 Key Insights:
 ✔️ Identified peak booking months and seasonality patterns 📆
